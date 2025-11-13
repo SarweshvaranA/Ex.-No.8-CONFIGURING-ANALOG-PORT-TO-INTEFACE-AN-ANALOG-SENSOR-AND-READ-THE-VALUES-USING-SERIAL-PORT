@@ -316,7 +316,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Result :
 
-Thus, the analog sensor was successfully interfaced with the STM32 Nucleo board using the ADC channel, and the sensor's analog values were accurately read and displayed on the serial monitor.
+Thus, To configure ADC channel for interfacing an analog sensor and read the values on the com port was executed successfully.
 
 
 
